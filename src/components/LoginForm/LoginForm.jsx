@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 import classes from './LoginForm.module.css'
 import { loginActionCreators } from './../../redux/reducers/login/action-creators';
 
-const Loginform = () => {
+const LoginForm = () => {
 
   const [buttonDisabled, setButtonDisabled] = useState(true)
   const [loginValue, setLoginValue] = useState('')
@@ -58,4 +58,4 @@ const Loginform = () => {
   );
 }
 
-export default Loginform;
+export default LoginForm;
