@@ -1,5 +1,5 @@
 ## testLogin
 - `npm i`
 - `npm start`
-#### Login: developer21, password: 12345
+#### Login: developer21, password: 123456
  
